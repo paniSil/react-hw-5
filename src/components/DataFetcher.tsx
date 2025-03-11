@@ -1,5 +1,4 @@
 import axios from 'axios'
-import { AlbumInterface } from '../types/Album.interface'
 
 const API_URL = 'https://jsonplaceholder.typicode.com/albums'
 
